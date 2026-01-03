@@ -33,3 +33,5 @@ Disclaimer:
 
 This project is for educational and portfolio purposes only.
 The author is not responsible for any misuse of the code.
+
+![K-means result](clusters.png)
